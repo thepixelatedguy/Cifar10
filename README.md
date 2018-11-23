@@ -14,5 +14,5 @@ The model was trained for 25 epochs resulting in a training accuracy of 87.9% an
 **Python** | **^3.6.5**
 **Tensorflow** | **^1.6.0**
 **Numpy** | **^1.14.2** 
-**Keras** | **^4.0**  
+**Keras** | **^2.2.1**  
 **Matplotlib** | **^2.1.2**
