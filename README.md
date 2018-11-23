@@ -6,4 +6,4 @@ A CNN model implementation for CIFAR-10 using tensorflow.The model uses Adam Opt
 ## Performance
 The model was trained for 25 epochs resulting in a training accuracy of 87.9% and a test set accuracy of 81%,The performance of this model can further be improved by adding regularization and Batch Normalization in to the mix.
 
-<img src="https://raw.githubusercontent.com/thepixelatedguy/Cifar10/master/Media/accuracy.png" height="500">
+<img src="https://raw.githubusercontent.com/thepixelatedguy/Cifar10/master/Media/accuracy.png" height="400">
