@@ -8,7 +8,7 @@ The model was trained for 25 epochs resulting in a training accuracy of 87.9% an
 
 <img src="https://raw.githubusercontent.com/thepixelatedguy/Cifar10/master/Media/accuracy.png" height="400">
 
-## Requirement
+## Requirements
 **Library** | **Version**
 --- | ---
 **Python** | **^3.6.5**
